@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+p {
+  text-transform: capitalize;
+  font-size: 22px;
+  font-weight: 5px;
+  border: none;
+  background-color: white;
+  width: 200px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+span {
+  text-transform: none;
+}
